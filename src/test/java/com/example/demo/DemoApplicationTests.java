@@ -41,9 +41,9 @@ public class DemoApplicationTests {
 	@Test
 	public void testListAccount() {
 		AdaAccount adaAccount = new AdaAccount();
-		List<AdaAccount> list = adaAccount.selectList(new QueryWrapper<AdaAccount>().eq("address", "11111111111"));
+		List<AdaAccount> list = adaAccount.selectAll();
 		list.forEach((item) -> {
-			System.out.println(item.getAccountId());
+			System.out.println(item.getAccountName());
 		});
 	}
 	

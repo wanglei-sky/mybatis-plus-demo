@@ -16,9 +16,9 @@ spring:
   datasource: 
     druid: 
       driver-class-name: com.mysql.jdbc.Driver
-      url: jdbc:mysql://db.dev.51szzc.com:3306/szzc-wallet-dev?rewriteBatchedStatements=true&useUnicode=true&characterEncoding=utf-8
-      username: szzc_wallet
-      password: szzc_wallet
+      url: jdbc:mysql://localhost:3306/szzc-wallet-dev?rewriteBatchedStatements=true&useUnicode=true&characterEncoding=utf-8
+      username: root
+      password: rootmima413
       initial-size: 5
       min-idle: 5
       max-active: 30
