@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "bt.environment",
+    "type": "java.lang.String",
+    "description": "A description for 'bt.environment'"
+  },
+  {
+    "name": "bt.merchant.id",
+    "type": "java.lang.String",
+    "description": "A description for 'bt.merchant.id'"
+  },
+  {
+    "name": "bt.public.key",
+    "type": "java.lang.String",
+    "description": "A description for 'bt.public.key'"
+  },
+  {
+    "name": "bt.private.key",
+    "type": "java.lang.String",
+    "description": "A description for 'bt.private.key'"
+  },
+  {
+    "name": "mybatis-plus.global-config.id-type",
+    "type": "java.lang.String",
+    "description": "A description for 'mybatis-plus.global-config.id-type'"
+  },
+  {
+    "name": "mybatis-plus.global-config.field-strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'mybatis-plus.global-config.field-strategy'"
+  },
+  {
+    "name": "mybatis-plus.global-config.db-column-underline",
+    "type": "java.lang.String",
+    "description": "A description for 'mybatis-plus.global-config.db-column-underline'"
+  },
+  {
+    "name": "mybatis-plus.global-config.refresh-mapper",
+    "type": "java.lang.String",
+    "description": "A description for 'mybatis-plus.global-config.refresh-mapper'"
+  },
+  {
+    "name": "mybatis-plus.global-config.logic-delete-value",
+    "type": "java.lang.String",
+    "description": "A description for 'mybatis-plus.global-config.logic-delete-value'"
+  },
+  {
+    "name": "mybatis-plus.global-config.logic-not-delete-value",
+    "type": "java.lang.String",
+    "description": "A description for 'mybatis-plus.global-config.logic-not-delete-value'"
+  }
+]}
