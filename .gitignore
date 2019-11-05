@@ -17,7 +17,7 @@
 *.ipr
 
 ### NetBeans ###
-/nbproject/private/asdfasdf
+/nbproject/private/
 /build/
 /nbbuild/
 /dist/
