@@ -52,7 +52,7 @@ public class DemoApplicationTests {
 		AdaAccount adaAccount = new AdaAccount();
 		Long count = adaAccount.selectPage(new Page<AdaAccount>(1, 10), 
 				new QueryWrapper<AdaAccount>().eq("address", "7878979889798798")).getTotal();
-		System.out.println("测试代码11111111");
+		System.out.println("测试代码222222222");
 		System.out.println(count);
 	}
 	
